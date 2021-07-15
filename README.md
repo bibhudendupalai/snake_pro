@@ -1,5 +1,5 @@
 # snake_pro
-In this video we are going to see about how to create a snake game using python
+In this project we are going to see about how to create a snake game using python
 
 We are using three libraries to create this epic game that is turtle, random and freegames
 
